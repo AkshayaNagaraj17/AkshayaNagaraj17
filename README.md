@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @AkshayaNagaraj17
-- 👀 I’m interested in getting rich
 - 🌱 I’m currently learning web development
 
 
